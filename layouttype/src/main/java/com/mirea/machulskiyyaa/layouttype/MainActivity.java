@@ -1,4 +1,4 @@
-package com.mirea.machulskiyyaa.lesson1;
+package com.mirea.machulskiyyaa.layouttype;
 
 import androidx.appcompat.app.AppCompatActivity;
 

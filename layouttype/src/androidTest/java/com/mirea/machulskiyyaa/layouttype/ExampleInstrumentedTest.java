@@ -1,4 +1,4 @@
-package com.mirea.machulskiyyaa.lesson1;
+package com.mirea.machulskiyyaa.layouttype;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.mirea.machulskiyyaa.lesson1", appContext.getPackageName());
+        assertEquals("com.mirea.machulskiyyaa.layouttype", appContext.getPackageName());
     }
 }

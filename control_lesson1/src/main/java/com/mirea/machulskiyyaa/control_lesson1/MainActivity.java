@@ -1,4 +1,4 @@
-package com.mirea.machulskiyyaa.lesson1;
+package com.mirea.machulskiyyaa.control_lesson1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
